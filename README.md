@@ -1,5 +1,5 @@
-## Hi there 👋
-University of Virginia, School of Data Science Minor in Data Science, Class of 2024
+## Welcome 👋
+University of Virginia, School of Data Science, Minor in Data Science, Class of 2024
 <!--
 **sarahmenchavez/sarahmenchavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
